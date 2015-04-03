@@ -1,0 +1,4 @@
+﻿<DnaLibrary RuntimeVersion="v4.0" Name="Simple Statistics">
+  <Reference Path="MathNet.Numerics.dll" />
+  <ExternalLibrary Path="SimpleStatistics.dll" />
+</DnaLibrary>
